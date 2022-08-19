@@ -11,7 +11,7 @@
     }
 }
 
-/*                           IMPORTANT note:
+/*                           IMPORTANT note by bhavika:
 1. bitwise and opertor(&) i.e single ampersand works both on int operands and also on boolean operands 
 
 2. logical operator /shortcircuit operator (&&) i.e double ampersand only works on those operands that result in some boolean
